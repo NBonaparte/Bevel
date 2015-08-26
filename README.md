@@ -20,7 +20,7 @@ Obviously you'll need lightdm and lightdm-webkit-greeter.
 Screenshots
 -----------
 
-![Overview with multiple users](https://github.com/jqln-0/Bevel/raw/screenshots/images/overview.png)
+![Overview with multiple users](https://raw.githubusercontent.com/NBonaparte/Bevel/master/images/scrot_deselect.png)
 
-![Logging in](https://github.com/jqln-0/Bevel/raw/screenshots/images/login.png)
+![Logging in](https://raw.githubusercontent.com/NBonaparte/Bevel/master/images/scrot_select.png)
 
