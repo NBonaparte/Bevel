@@ -344,6 +344,15 @@ $(document).ready(function () {
     $('.session').click(function (event) {
         selectSession($(this).data('id'));
     });
+    $('.action-shutdown').click(function (event) {
+        lightdm.shutdown();
+    });
+    $('.action-reboot').click(function (event) {
+        lightdm.restart();
+    });
+    $('.action-suspend').click(function (event) {
+        lightdm.suspend();
+    });
     $('#password').on('keyup', function (e) {
         if (e.keyCode != 13) {
             return;
